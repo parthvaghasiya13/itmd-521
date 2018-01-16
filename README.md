@@ -7,4 +7,8 @@
 From Surat City which is located in Gujarat State of India.
 
 # What is your IT Interest/speciality?
+I have interest in Database Management and Computer Networking. I don't have any prior work experience. And I would like to be a Data Analysit.
 
+# Something Interesting About You
+
+# Git tutorial
