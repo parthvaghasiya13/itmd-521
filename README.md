@@ -1,2 +1,2 @@
 # Parth Kishorbhai Vaghasiya
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Profile Picture.jpg)
+![alt text](https://github.com/parthvaghasiya13/itmd-521/tree/master/images/Profile Picture.jpg)
