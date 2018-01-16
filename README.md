@@ -12,3 +12,4 @@ I have interest in Database Management and Computer Networking. I don't have any
 # Something Interesting About You
 
 # Git tutorial
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/Tutorial_Completion_1.png)
