@@ -5,4 +5,4 @@
 ![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/element-2.PNG)
 
 # output of the command hadoop version
-![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/element-3.PNG)
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/element-3_1.PNG)
