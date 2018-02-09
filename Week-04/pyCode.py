@@ -22,7 +22,7 @@ for line in pv:
         qualityCode1=line[63] #quality code
         PH1=line[64] #place holder
         PH2=line[65:69] #place holder
-	    PH3=line[69] #place holder
+	PH3=line[69] #place holder
         PH4=line[70] # place holder
         PH5= line[70:75] #place holder for sky ceiling
         PH6= line[76] #place holder for quality code
@@ -38,7 +38,7 @@ for line in pv:
         atmosphericPressure=line[99:104] #atmospheric Pressure (hectopascals x 10)
         qualityCode5=line[105] #quality code
 
-		#sql statement for data insertion
+	#sql statement for data insertion
         sqlStatement= "insert into records VALUES('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s')"% \
 (unknown1,wStationIdentifier,WBANIdentifier,obsDate,obsHour,unknown2,lat,long,unknown3,elev,PHF1,PHF2,windD,qualityCode1,PH1,PH2,PH3,PH4,PH5,PH6,PH7,visibilityD,qualityCode2,PH8,PH9,airTemperature,qualityCode3,dewPoint,qualityCode4,atmosphericPressure,qualityCode5)
     
