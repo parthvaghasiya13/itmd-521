@@ -37,11 +37,11 @@ Clone this repo to your system, add this file to a folder named Week-04 (mind th
 
 ### Deliverable 1
 
-**Screenshot here**
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/element-1_final.PNG)
 
 ### Devliverable 2
 
-**ScreenShot here**
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/images/element-2_final.PNG)
 
 ### Additional Notes
 
