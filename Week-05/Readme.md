@@ -20,7 +20,7 @@ Include a the command you used to generate the output in a file named: ```sqoop.
 
 Include file named ```sqoop.sh``` containing the command used to run the sqoop connection
 
-![alt text] https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/Sqoop.sh
+https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/Sqoop.sh
 
 ### Deliverable 2
 
