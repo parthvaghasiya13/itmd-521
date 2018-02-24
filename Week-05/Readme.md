@@ -26,4 +26,4 @@ https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/Sqoop.sh
 
 Place your screen shot of the ```hadoop fs -tail <file>``` command here
 
-![Alt text] https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/images/PART-2.PNG
+![Alt text] (https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/images/PART-2.PNG)
