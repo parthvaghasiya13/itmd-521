@@ -20,6 +20,8 @@ Include a the command you used to generate the output in a file named: ```sqoop.
 
 Include file named ```sqoop.sh``` containing the command used to run the sqoop connection
 
+![Alt text] https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-05/Sqoop.sh
+
 ### Deliverable 2
 
 Place your screen shot of the ```hadoop fs -tail <file>``` command here
