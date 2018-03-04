@@ -41,4 +41,4 @@ Repeat the work above this time add a ```WHERE``` clause selecting only record n
 
 Add any additional notes needed here:
 
-Java Code Link: https://github.com/illinoistech-itm/pvaghasiya/tree/master/ITMD-521/Week-06
+Java Code and Other commands Link: https://github.com/illinoistech-itm/pvaghasiya/tree/master/ITMD-521/Week-06
