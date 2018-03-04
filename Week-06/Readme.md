@@ -31,11 +31,11 @@ Repeat the work above this time add a ```WHERE``` clause selecting only record n
 
 ### Deliverable 1
 
-![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-06/images/PART-1.PNG)
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-06/images/PART-01.PNG)
 
 ### Deliverable 2
 
-![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-06/images/PART-2.PNG)
+![alt text](https://github.com/parthvaghasiya13/itmd-521/blob/master/Week-06/images/PART-02.PNG)
 
 ### Notes
 
