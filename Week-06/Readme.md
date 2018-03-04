@@ -39,4 +39,5 @@ Repeat the work above this time add a ```WHERE``` clause selecting only record n
 ### Notes
 
 Add any additional notes needed here:
+
 Java Code Link: https://github.com/illinoistech-itm/pvaghasiya/blob/master/ITMD-521/Week-06/code.java
